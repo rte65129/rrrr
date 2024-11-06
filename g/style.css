@@ -3,4 +3,6 @@ div{
     height: 200px;
     background-color: antiquewhite;
     margin: 20px;
+    display: flex;
+    flex-direction: row;
 }
