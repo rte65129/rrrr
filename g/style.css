@@ -1,4 +1,4 @@
-div{
+.rr{
     width: 200px;
     height: 200px;
     background-color: antiquewhite;
@@ -8,4 +8,5 @@ div{
 .ffg{
     display: flex;
     flex-direction: row;
+    justify-content: center;
 }
